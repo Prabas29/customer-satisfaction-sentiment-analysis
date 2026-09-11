@@ -69,17 +69,6 @@ The dataset contains 1,462 survey rows, of which 787 are valid responses (a surv
 - Improve the survey response rate so the data is more representative.
 - Use positive reviews as testimonials and follow up on negative ones to reduce churn.
 
-## Repository Structure
-
-```
-.
-├── README.md
-├── notebook/      # Google Colab notebook (cleaning, metrics, sentiment)
-├── data/          # source dataset
-├── dashboard/     # Power BI screenshot and export
-└── slides/        # final presentation (PDF)
-```
-
 ## Author
 
 **Prabaswara Trirespati** — DABI 23, Dibimbing.id Data Analyst Bootcamp
